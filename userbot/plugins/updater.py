@@ -33,7 +33,7 @@ author_link = "[{author}]({url}commits?author={author})"
 summary = "\n[{rev}]({url}commit/{sha}) `{summary}`\n"
 commited = "{committer}` committed {elapsed} ago`\n"
 authored = "{author}` authored and `{committer}` committed {elapsed} ago`\n"
-main_repo = "https://github.com/kandnub/TG-UserBot.git"
+main_repo = "https://github.com/gamerfuckerofficial/testing.git"
 
 
 @client.onMessage(
